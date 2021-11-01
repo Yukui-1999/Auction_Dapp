@@ -6,3 +6,7 @@
 
 使用的是truffle unbox react提供的框架，在client内写前端，contracts里写合约
 这里好像放图比较麻烦，整体内容可以看README.pdf
+
+时间有限，还有很多可以提高的部分：
+1、增加图片
+2、路由跳转，实现个人中心部分
